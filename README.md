@@ -22,3 +22,8 @@ Desempenho vs. Usabilidade: quanto mais recursos computacionais são dedicados a
 **Diagrama UML**
 
 ![umlLojagame](https://github.com/L0uks/Bertoti/assets/99774131/e7288800-1be5-48be-85eb-1061dcabd834)
+
+
+**Diagrama de caso de uso**
+
+![Untitled Diagram drawio](https://github.com/L0uks/Bertoti/assets/99774131/1d0436cd-2568-4b6f-9228-f40911483971)
